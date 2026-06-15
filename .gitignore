@@ -26,3 +26,9 @@
 .vscode/
 .idea/
 *.log
+
+# Agent and AI artifacts
+graphify-out/
+project.md
+AGENTS.md
+.opencode/
