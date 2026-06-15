@@ -1,0 +1,28 @@
+# Node
+**/node_modules/
+**/dist/
+**/.output/
+**/.vinxi/
+**/.tanstack/
+**/.nitro/
+
+# Python
+**/.venv/
+**/__pycache__/
+**/*.pyc
+**/*.pyo
+**/*.pyd
+
+# Environment
+**/.env
+**/*.env.local
+
+# Databases
+**/*.db
+**/*.sqlite3
+
+# OS / Editors
+.DS_Store
+.vscode/
+.idea/
+*.log
